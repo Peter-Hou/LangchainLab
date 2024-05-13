@@ -1,9 +1,16 @@
+python-dotenv==1.0.1
 ipykernel==6.29.4
+
 langchain==0.1.20
 langchain_community==0.0.38
 langchain_core==0.1.52
 langchain-openai==0.1.6
+openai==1.28.1
 playwright==1.43.0
 beautifulsoup4==4.12.3
-bs4==0.0.2
+
+# browsing source
+wikipedia==1.4.0
+python-youtube==0.9.4
+youtube-search==2.1.2
 
